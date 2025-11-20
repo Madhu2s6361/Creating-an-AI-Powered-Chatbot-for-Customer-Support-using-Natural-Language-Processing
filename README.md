@@ -12,13 +12,18 @@ This project implements an AI-powered chatbot designed to assist customers by un
 5. Interactive chatbot interface (CLI + Gradio UI)
 6. Easy to extend with more intents or LLM fallback
 
-project
+# project
 
 │── intents.json         # Training dataset
+
 │── model.pkl            # Trained ML model
+
 │── train.py             # Model training script
+
 │── chatbot.py           # Chatbot runtime script
+
 │── README.md            # Documentation
+
 
 How It Works
 1. User Input:- The user enters a message like: "Where is my order?"

@@ -96,7 +96,8 @@ Bot: You can return items within 30 days. Do you want me to create a return requ
 6. Use a deep learning model (LSTM/BERT) for higher accuracy
 
 
-   Author
+
+    # Author
 Madhumitha
 AI Enthusiast
 

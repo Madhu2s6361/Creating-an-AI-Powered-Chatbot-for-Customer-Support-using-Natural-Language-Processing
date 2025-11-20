@@ -13,6 +13,7 @@ This project implements an AI-powered chatbot designed to assist customers by un
 6. Easy to extend with more intents or LLM fallback
 
 project
+
 │── intents.json         # Training dataset
 │── model.pkl            # Trained ML model
 │── train.py             # Model training script
@@ -99,5 +100,6 @@ Bot: You can return items within 30 days. Do you want me to create a return requ
 
     # Author
 Madhumitha
+
 AI Enthusiast
 
